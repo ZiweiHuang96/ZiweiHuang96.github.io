@@ -65,8 +65,8 @@
 + IEEE Wireless Communications
 + IEEE Communications Magazine
 + IEEE Communications Letters
-+ China Communications
 + IET Communications
++ China Communications
 + IEEE Vehicular Technology Conference (VTC)
 
 ### Invited Talk
