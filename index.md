@@ -27,6 +27,7 @@
 4. **Ziwei Huang\***, X. Cheng, and X. Yin, "[A general 3D non-stationary 6G channel model with time-space consistency](https://ieeexplore.ieee.org/document/9727146)'', *IEEE Transactions on Communications*, vol. 70, no. 5, pp. 3436-3450, May 2022. (SCI, JCR Q1, IF: 6.166)
 5. **Ziwei Huang\*** and X. Cheng, "[A general 3D space-time-frequency non-stationary model for 6G channels](https://ieeexplore.ieee.org/document/9210873),'' *IEEE Transactions on Wireless Communications*, vol. 20, no. 1, pp. 535-548, Jan. 2021. (SCI,JCR Q1, IF: 8.346)
 6. X. Cheng, **Ziwei Huang\***, and L. Bai, "[Channel nonstationarity and consistency for beyond 5G and 6G: A survey](https://ieeexplore.ieee.org/document/9799524),'' *IEEE Communications Surveys & Tutorials*, vol. 24, no. 3, pp. 1634-1669, third-quarter 2022. (SCI, JCR Q1, IF: 33.840)
+7. Lu BAI, Mingran SUN, **Ziwei Huang\***, Tao FENG, Xiang CHENG. A multi-UAV cooperative channel model for emergency communication scenarios (Invited Paper)[J]. Journal on Communications, 2022, accepted.
 5.	L. Bai, **Ziwei Huang\***, and X. Cheng, "[A non-stationary 6G UAV channel model with 3D continuously arbitrary trajectory and self-rotation](https://ieeexplore.ieee.org/document/9810808),'' *IEEE Transactions on Wireless Communications*, vol. 21, no. 12, pp. 10592-10606, Dec. 2022. (SCI, JCR Q1, IF: 8.346)
 6.	Xiang CHENG, Haotian ZHANG, Zonghui YANG, **Ziwei Huang\***, Sijiang LI, Anlan YU. [Integrated sensing and communications for Internet of vehicles：current status and development trend[J]](http://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2022137). *Journal on Communications*, 2022, 43(8): 188-202.
 7.	L. Bai, **Ziwei Huang\***, L. Cui, T. Feng, and X. Cheng, "[A mixed-bouncing based non-stationary model for 6G massive MIMO mmWave UAV channels](https://ieeexplore.ieee.org/document/9875362/),'' *IEEE Transactions on Communications*, vol. 70, no. 10, pp. 7055-7069, Oct. 2022. (SCI, JCR Q1, IF: 6.166)
@@ -47,8 +48,8 @@
 1.	**Ziwei Huang\*** and X. Cheng, "[A 3D cluster-based channel model with time-space consistency (Invited Paper)](https://ieeexplore.ieee.org/document/9580400),'' in *Proc. IEEE/CIC International Conference on Communications in China (ICCC)*, Xiamen, China, Jul. 2021, pp. 1-6. (EI)
 
 ### Patents
-1.	程翔，黄子蔚，“空时一致性下的三重非平稳无线通信信道建模方法”，申请（专利）号202210281015.4
-2.	程翔，黄子蔚，“用于车联网通信的空时频非平稳无线通信信道建模方法”，申请（专利）号202210298647.1
+1.	程翔，黄子蔚，“空时一致性下的三重非平稳无线通信信道建模方法”，专利号ZL202210281015.4
+2.	程翔，黄子蔚，“用于车联网通信的空时频非平稳无线通信信道建模方法”，专利号ZL202210298647.1
 2.	程翔，黄子蔚，“车联网双重非平稳信道模型”，申请（专利）号201911177440.3。
 
 
