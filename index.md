@@ -22,7 +22,7 @@
 
 
 ### Journal Papers
-1. **Ziwei Huang\***, L. Bai, M. Sun, X. Cheng, Preben E. Mogensen, and Xuesong Cai, ``A mixed-bouncing based non-stationarity and consistency 6G V2V channel model with continuously arbitrary trajectory," *IEEE Transactions on Wireless Communications*, Early access, 2023. 
+1. **Ziwei Huang\***, L. Bai, M. Sun, X. Cheng, Preben E. Mogensen, and Xuesong Cai, ``A mixed-bouncing based non-stationarity and consistency 6G V2V channel model with continuously arbitrary trajectory," *IEEE Transactions on Wireless Communications*, Early access, 2023. (SCI, JCR Q1, IF: 8.346)
 2. **Ziwei Huang\***, L. Bai, M. Sun, and X. Cheng, "[A 3D non-stationarity and consistency model for cooperative multi-vehicle channels](https://ieeexplore.ieee.org/document/10106035),'' *IEEE Transactions on Vehicular Technology*, to be published, 2023. Doi: 10.1109/TVT.2023.3268664 (SCI, JCR Q1, IF: 6.239)
 1. **Ziwei Huang\***, L. Bai, X. Cheng, X. Yin, P. E. Mogensen, and X. Cai, "[A non-stationary 6G V2V channel model with continuously arbitrary trajectory](https://ieeexplore.ieee.org/abstract/document/9872128),'' *IEEE Transactions on Vehicular Technology*, vol. 72, no. 1, pp. 4-19, Jan. 2023. (SCI, JCR Q1, IF: 6.239)
 2. **Ziwei Huang\*** and X. Cheng, "[A 3D non-stationary model for beyond 5G and 6G vehicle-to-vehicle mmWave massive MIMO channels](https://ieeexplore.ieee.org/document/9464161),'' *IEEE Transactions on Intelligent Transportation Systems*, vol. 23, no. 7, pp. 8260-8276, Jul. 2022. (SCI, JCR Q1, IF: 9.551)
