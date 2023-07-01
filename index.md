@@ -50,7 +50,8 @@
 
 
 ### Conference Papers
-1.	**Ziwei Huang\*** and X. Cheng, "[A 3D cluster-based channel model with time-space consistency (Invited Paper)](https://ieeexplore.ieee.org/document/9580400),'' in *Proc. IEEE/CIC International Conference on Communications in China (ICCC)*, Xiamen, China, Jul. 2021, pp. 1-6. (EI)
+1. **Ziwei Huang\***, L. Bai, L. Cui, and T. Feng, “A space-time non-stationary and consistent model for 6G multi-UAV cooperative channels,” in *Proc. IEEE/CIC International Conference on Communications in China (ICCC)*, Dalian, China, Aug. 2023, accpeted.
+2.	**Ziwei Huang\*** and X. Cheng, "[A 3D cluster-based channel model with time-space consistency (Invited Paper)](https://ieeexplore.ieee.org/document/9580400),'' in *Proc. IEEE/CIC International Conference on Communications in China (ICCC)*, Xiamen, China, Jul. 2021, pp. 1-6. (EI)
 
 ### Patents
 1.	程翔，黄子蔚，“空时一致性下的三重非平稳无线通信信道建模方法”，专利号ZL202210281015.4
