@@ -84,11 +84,12 @@
 + *Channel Measurements, Modeling, and Application for Complex High-Mobility Vehicular Communication Scenarios*, School of Electronic and Information Engineering, South China University of Technology, 2022
 
 # Awards
++ ***Chinese National Scholarship (2018 & 2023)***
 + ***IET Communications Best Paper Award: Premium Award (2022)***
 + ***Peking University Presidential Scholarship for Ph.D. candidates (2021 & 2022)***
 + ***Leo Koguan Scholarship (2022)***
 + ***Peking University Merit Student (2022)***
-+ ***Chinese National Scholarship (2018)***
+
 
 
 # Contact Me
