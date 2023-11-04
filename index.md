@@ -17,8 +17,8 @@
 # Publications
 
 ### Books
-1.	X. Cheng, **Ziwei Huang\***, and L. Bai, *Channel Characterization and Modeling for Vehicular Communications*, Springer, Cham, Switzerland, in preparation, 2023. 
-2.	L. Bai, **Ziwei Huang\***, and X. Cheng, *Propagation Characterization and Channel Modeling for UAV Communications*, Springer, Cham, Switzerland, in preparation, 2023.
+1.	X. Cheng, **Ziwei Huang\***, and L. Bai, *Channel Characterization and Modeling for Vehicular Communications*, Springer, Cham, Switzerland, 2023. 
+2.	L. Bai, **Ziwei Huang\***, and X. Cheng, *Propagation Characterization and Channel Modeling for UAV Communications*, Springer, Cham, Switzerland, 2023.
 
 
 ### Journal Papers
