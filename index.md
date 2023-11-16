@@ -50,7 +50,7 @@
 
 
 ### Conference Papers
-1. **Ziwei Huang\*** *et al.*, "[A space-time non-stationary and consistent model for 6G multi-UAV cooperative channels](https://ieeexplore.ieee.org/abstract/document/10233586),'' in *Proc. IEEE/CIC International Conference on Communications in China (ICCC)*, Dalian, China, Aug. 2023, pp. 1-6. (EI)
+1. **Ziwei Huang\***, L. Bai, L. Cui, and T. Feng, "[A space-time non-stationary and consistent model for 6G multi-UAV cooperative channels](https://ieeexplore.ieee.org/abstract/document/10233586),'' in *Proc. IEEE/CIC International Conference on Communications in China (ICCC)*, Dalian, China, Aug. 2023, pp. 1-6. (EI)
 2.	**Ziwei Huang\*** and X. Cheng, "[A 3D cluster-based channel model with time-space consistency (Invited Paper)](https://ieeexplore.ieee.org/document/9580400),'' in *Proc. IEEE/CIC International Conference on Communications in China (ICCC)*, Xiamen, China, Jul. 2021, pp. 1-6. (EI)
 
 ### Patents
