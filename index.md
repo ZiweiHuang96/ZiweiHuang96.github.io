@@ -1,6 +1,6 @@
 # About Me
 
-**I am currently pursuing the Ph.D. degree with the *School of Electronics, Peking University*, Beijing, China, under the supervision of [Prof. Xiang Cheng (IEEE Fellow)](https://ele.pku.edu.cn/info/1023/1063.htm). I am a group member of [Pervasive connectivity and networked intelligence (PCNI)](http://pcni.pku.edu.cn/homepage.html). My Google Scholar link is [here](https://scholar.google.com/citations?user=UO10gm8AAAAJ&hl=zh-CN&oi=sra).**
+**I am currently pursuing the Ph.D. degree with the *School of Electronics, Peking University*, Beijing, China, under the supervision of [Prof. Xiang Cheng (IEEE Fellow)](https://ele.pku.edu.cn/info/1023/1063.htm). I am a group member of [Pervasive Connectivity and Networked Intelligence (PCNI)](http://pcni.pku.edu.cn/homepage.html). My Google Scholar link is [here](https://scholar.google.com/citations?user=UO10gm8AAAAJ&hl=zh-CN&oi=sra).**
 
 
 # Research Interests
