@@ -44,7 +44,7 @@
 20.	L. Bai, Q. Xu, **Ziwei Huang\***, S. Wu, S. Ventouras, G. Goussetis, and X. Cheng, "[An atmosphere data-driven Q-band satellite channel model with feature selection](https://ieeexplore.ieee.org/document/9664482),'' *IEEE Transactions on Antennas and Propagation*, vol. 70, no. 6, pp. 4002-4013, June 2022. (SCI, JCR Q1, IF: 5.7)
 21.	Lu BAI, Mingran SUN, **Ziwei Huang\***, Tao FENG, Xiang CHENG. A multi-UAV cooperative channel model for emergency communication scenarios (Invited Paper)[J]. Journal on Communications, 2023, 44(7): 38-50. (EI, CCF-T1).
 22.	Xiang CHENG, Haotian ZHANG, Zonghui YANG, **Ziwei Huang\***, Sijiang LI, Anlan YU. [Integrated sensing and communications for Internet of vehicles：current status and development trend[J]](http://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2022137). *Journal on Communications*, 2022, 43(8): 188-202. (EI, CCF-T1)
-23.	X. Cheng, H. Zhang, J. Zhang, S. Gao, S. Li, **Ziwei Huang\***, L. Bai, Z. Yang, X. Zheng, and L. Yang, “Intelligent multi-modal sensing-communication integration: Synesthesia of Machines”, *IEEE Communications Surveys & Tutorials*, accepted for publication, 2023.
+23.	X. Cheng, H. Zhang, J. Zhang, S. Gao, S. Li, **Ziwei Huang\***, L. Bai, Z. Yang, X. Zheng, and L. Yang, “Intelligent multi-modal sensing-communication integration: Synesthesia of Machines”, *IEEE Communications Surveys & Tutorials*, accepted for publication, 2023. (SCI, JCR Q1, IF: 35.6)
 
 
 
