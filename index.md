@@ -73,6 +73,7 @@
 + IEEE Transactions on Intelligent Transportation Systems (TITS)
 + IEEE Transactions on Vehicular Technology (TVT)
 + IEEE Transactions on Network Science and Engineering (TNSE)
++ IEEE Internet of Things Journal (IOTJ)
 + IEEE Wireless Communications
 + IEEE Communications Magazine
 + IEEE Communications Letters
