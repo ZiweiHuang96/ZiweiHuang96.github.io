@@ -54,6 +54,10 @@
 ### Conference Papers
 1. **Ziwei Huang\***, L. Bai, L. Cui, and T. Feng, "[A space-time non-stationary and consistent model for 6G multi-UAV cooperative channels](https://ieeexplore.ieee.org/abstract/document/10233586),'' in *Proc. IEEE/CIC International Conference on Communications in China (ICCC)*, Dalian, China, Aug. 2023, pp. 1-6. (EI)
 2.	**Ziwei Huang\*** and X. Cheng, "[A 3D cluster-based channel model with time-space consistency (Invited Paper)](https://ieeexplore.ieee.org/document/9580400),'' in *Proc. IEEE/CIC International Conference on Communications in China (ICCC)*, Xiamen, China, Jul. 2021, pp. 1-6. (EI)
+3.	M. Sun, L. Bai, **Ziwei Huang\***, X. Cheng, and J. Wu, "UAV-to-ground path loss prediction based on synesthesia of machines," in *Proc. 1st Aerospace Frontiers Conference (AFC 2024)*, Xi'an, China, Apr. 2024, accepted. (EI)
+4. M. Lu, L. Bai, **Ziwei Huang\***, and X. Cheng, "Propagation characterization of multi-frequency multi-scenario UAV communications," in *Proc. 1st Aerospace Frontiers Conference (AFC 2024)*, Xi'an, China, Apr. 2024, accepted. (EI)
+5. Z. Han, L. Bai, **Ziwei Huang\***, and X. Cheng, "Multi-UAV cooperative channel characterization of emergency communications," in *Proc. 1st Aerospace Frontiers Conference (AFC 2024)*, Xi'an, China, Apr. 2024, accepted. (EI)
+6. J. Liu, Y. Shen, L. Bai, M. Lu, **Ziwei Huang\***, and X. Cheng, "Path loss prediction from visual sensing information in UAV-to-ground scenarios," in *Proc. 1st Aerospace Frontiers Conference (AFC 2024)*, Xi'an, China, Apr. 2024, accepted. (EI)
 
 ### Patents
 1.	程翔，黄子蔚，“空时一致性下的三重非平稳无线通信信道建模方法”，专利号ZL202210281015.4
