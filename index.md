@@ -1,4 +1,4 @@
-**I am currently pursuing the Ph.D. degree with the *School of Electronics, Peking University*, Beijing, China, under the supervision of [Prof. Xiang Cheng (IEEE Fellow)](https://ele.pku.edu.cn/info/1023/1063.htm). I am a group member of [Pervasive Connectivity and Networked Intelligence (PCNI)](http://pcni.pku.edu.cn/homepage.html). My Google Scholar link is [here](https://scholar.google.com/citations?user=UO10gm8AAAAJ&hl=zh-CN&oi=sra).**
+**I received the Ph.D. degree in *School of Electronics, Peking University*, Beijing, China, in 2024. I am currently a Boya Postdoctoral Researcher with Peking University under the supervision of [Prof. Xiang Cheng (IEEE Fellow)](https://ele.pku.edu.cn/info/1023/1063.htm). I am a group member of [Pervasive Connectivity and Networked Intelligence (PCNI)](http://pcni.pku.edu.cn/homepage.html). My Google Scholar link is [here](https://scholar.google.com/citations?user=UO10gm8AAAAJ&hl=zh-CN&oi=sra).**
 
 
 # Research Interests
@@ -8,9 +8,9 @@
 
 
 # Education
-
-+ **Doctor of Philosophy** (2019/09- ), School of Electronics, Peking University, Beijing, China.
-+ **Bachelor of Engineering** (2015/09-2019/07), Hongshen Honors School & School of Microelectronics and Communication Engineering, Chongqing University, Chongqing, China.
++ **Boya Postdoctoral Researcher** (2024/07-), School of Electronics, Peking University, Beijing, China.
++ **Doctor of Philosophy** (2019/09-2024/06), School of Electronics, Peking University, Beijing, China.
++ **Bachelor of Engineering** (2015/09-2019/06), Hongshen Honors School & School of Microelectronics and Communication Engineering, Chongqing University, Chongqing, China.
 
 # Publications
 
