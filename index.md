@@ -92,8 +92,6 @@
 + ***National Scholarship (2018 & 2023)***
 + ***IET Communications Best Paper Award: Premium Award (2022)***
 + ***Peking University Presidential Scholarship for Ph.D. candidates (2021 & 2022)***
-+ ***Peking University Exceptional Award for Academic Innovation (2023)***
-+ ***Peking University Merit Student Pacesetter (2023)***
 
 
 
