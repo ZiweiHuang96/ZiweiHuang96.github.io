@@ -57,6 +57,7 @@
 3.	M. Sun, L. Bai, **Ziwei Huang\***, X. Cheng, and J. Wu, "UAV-to-ground path loss prediction based on synesthesia of machines," in *Proc. 1st Aerospace Frontiers Conference (AFC 2024)*, Xi'an, China, Apr. 2024. (EI, **Outstanding Paper Award**)
 4. M. Lu, L. Bai, **Ziwei Huang\***, and X. Cheng, "Propagation characterization of multi-frequency multi-scenario UAV communications," in *Proc. 1st Aerospace Frontiers Conference (AFC 2024)*, Xi'an, China, Apr. 2024. (EI)
 5. Z. Han, L. Bai, **Ziwei Huang\***, and X. Cheng, "Multi-UAV cooperative channel characterization of emergency communications," in *Proc. 1st Aerospace Frontiers Conference (AFC 2024)*, Xi'an, China, Apr. 2024. (EI)
+6. L. Bai, M. Sun, **Ziwei Huang\***, and X. Cheng, “A new dataset for intelligent multi-modal sensing-communication integration in low-altitude scenarios (Invited Paper),” in Proc. ACM Turing Award Celebration Conference TURC 2024, Changsha, China, 2024, accepted. (EI)
    
 ### Patents
 1.	程翔，黄子蔚，“空时一致性下的三重非平稳无线通信信道建模方法”，专利号ZL202210281015.4
