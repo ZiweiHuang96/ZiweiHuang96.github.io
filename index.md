@@ -78,6 +78,7 @@
 + IEEE Transactions on Vehicular Technology (TVT)
 + IEEE Transactions on Network Science and Engineering (TNSE)
 + IEEE Internet of Things Journal (IOTJ)
++ IEEE Open Journal of the Communications Society (OJ-COMS)
 + IEEE Wireless Communications
 + IEEE Communications Magazine
 + IEEE Communications Letters
