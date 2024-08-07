@@ -60,7 +60,7 @@
 6. L. Bai, M. Sun, **Ziwei Huang\***, and X. Cheng, "[A new dataset for intelligent multi-modal sensing-communication integration in low-altitude scenarios (Invited Paper)](https://dl.acm.org/doi/10.1145/3674399.3674471)," in *Proc. ACM Turing Award Celebration Conference TURC 2024*, Changsha, China, 2024, pp. 216-217. (EI)
    
 ### Patents
-1.	程翔，**黄子蔚**，“空时一致性下的三重非平稳无线通信信道建模方法”，专利号ZL202210281015.4
+1.	程翔，**<u>黄子蔚</u>**，“空时一致性下的三重非平稳无线通信信道建模方法”，专利号ZL202210281015.4
 2.	程翔，**黄子蔚**，“用于车联网通信的空时频非平稳无线通信信道建模方法”，专利号ZL202210298647.1
 
 
