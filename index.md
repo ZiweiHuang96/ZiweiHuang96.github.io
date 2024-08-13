@@ -93,6 +93,7 @@
 # Awards
 + ***Fellowship of China National Postdoctoral Program for Innovative Talents (2024)***
 + ***Peking University Excellent Graduate (2024)***
++ ***Aerospace Frontiers Conference Outstanding Paper Award (2023)***
 + ***National Scholarship (2018 & 2023)***
 + ***IET Communications Best Paper Award: Premium Award (2022)***
 + ***Peking University Presidential Scholarship for Ph.D. candidates (2021 & 2022)***
