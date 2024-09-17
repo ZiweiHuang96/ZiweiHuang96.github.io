@@ -73,6 +73,7 @@
 
 ### Technical Program Committee Member
 + IEEE Vehicular Technology Conference (VTC), Fall, 2022
++ International Conference on Cyber-enabled Distributed Computing and Knowledge Discovery (CyberC-2024), 2024
   
 ### Technical Reviewers
 + IEEE Journal on Selected Areas in Communications (JSAC)
