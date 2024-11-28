@@ -3,7 +3,7 @@
 
 # Research Interests
 
-+ Vehicular  and unmanned aerial vehicle (UAV) communications
++ Wireless communications and artificial intelligence
 + Wireless communication channel measurements, modeling, and application
 
 
