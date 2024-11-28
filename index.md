@@ -67,7 +67,9 @@
 4.	程翔，孙铭然，白露，<ins>**黄子蔚**</ins>，“基于机器联觉的无人机对地路径损耗实时预测方法”，申请（专利）号2024109494227
 
 
-
+# Project
++ 2024年博士后创新人才支持计划（国家资助博士后研究人员计划A档）
++ 2024年中国博士后科学基金第76批面上资助
 
 # Academic Service
 
@@ -95,7 +97,6 @@
 + *Channel Measurements, Modeling, and Application for Complex High-Mobility Vehicular Communication Scenarios*, School of Electronic and Information Engineering, South China University of Technology, 2022
 
 # Awards
-+ ***Fellowship of China National Postdoctoral Program for Innovative Talents (2024)***
 + ***Peking University Excellent Graduate (2024)***
 + ***Aerospace Frontiers Conference Outstanding Paper Award (2023)***
 + ***National Scholarship (2018 & 2023)***
