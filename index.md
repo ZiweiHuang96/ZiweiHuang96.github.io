@@ -4,7 +4,7 @@
 # Research Interests
 
 + Wireless communications and artificial intelligence
-+ Wireless communication channel measurements, modeling, and application
++ Channel measurements, modeling, and application
 
 
 # Education
