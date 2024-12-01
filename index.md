@@ -92,6 +92,7 @@
 + China Communications
 + IEEE Vehicular Technology Conference (VTC)
 + IEEE/CIC International Conference on Communications in China (ICCC)
++ Chinese Journal of Radio Science
 
 ### Invited Talk
 + *Channel Measurements, Modeling, and Application for Complex High-Mobility Vehicular Communication Scenarios*, School of Electronic and Information Engineering, South China University of Technology, 2022
