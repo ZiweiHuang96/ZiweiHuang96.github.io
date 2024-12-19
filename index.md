@@ -98,7 +98,7 @@
 + *Channel Measurements, Modeling, and Application for Complex High-Mobility Vehicular Communication Scenarios*, School of Electronic and Information Engineering, South China University of Technology, 2022
 
 # Awards
-+ ***Doctoral Dissertation Incentive Program\ 博士学位论文激励计划 by the China Institute of Communications (2024)***
++ ***Doctoral Dissertation Incentive Program by the China Institute of Communications (2024)***
 + ***Peking University Excellent Graduate (2024)***
 + ***Aerospace Frontiers Conference Outstanding Paper Award (2023)***
 + ***National Scholarship (2018 & 2023)***
