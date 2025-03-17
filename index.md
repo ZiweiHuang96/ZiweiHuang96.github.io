@@ -49,6 +49,7 @@
 27.	程翔, 张浩天, 杨宗辉, <ins>**黄子蔚**</ins>, 李思江, 余安澜. [车联网通信感知一体化研究：现状与发展趋势[J]](http://www.infocomm-journal.com/txxb/CN/10.11959/j.issn.1000-436x.2022137). 通信学报, 2022, 43(8): 188-202.（英文引用格式：Xiang CHENG, Haotian ZHANG, Zonghui YANG, <ins>**Ziwei Huang**</ins>, Sijiang LI, Anlan YU. Integrated sensing and communications for Internet of vehicles：current status and development trend[J]. Journal on Communications, 2022, 43(8): 188-202.）（EI, CCF-T1）
 28.	程翔，张浩天，李思江，<ins>**黄子蔚**</ins>，杨宗辉，高诗简，白露，张嘉楠，郑心湖，杨柳青. [机器联觉：通信与多模态感知的智能融合[J]](http://manu46.magtech.com.cn/Jweb_prai/CN/abstract/abstract12648.shtml). 模式识别与人工智能. 2023, 36(11): 967-986. Xiang CHENG, Haotian ZHANG, Sijiang LI, <ins>**Ziwei Huang**</ins>, Zonghui YANG, Shijian GAO, Lu BAI, Xinhu ZHENG, Liuqing YANG. Synesthesia of Machines (SoM) towards intelligent multi-modal sensing-communication integration [J]. Pattern Recognition and Artificial Intelligence, 2023, 36(11): 967-986. (EI)
 29.	X. Cheng, H. Zhang, J. Zhang, S. Gao, S. Li, <ins>**Ziwei Huang**</ins>, L. Bai, Z. Yang, X. Zheng, and L. Yang, “[Intelligent multi-modal sensing-communication integration: Synesthesia of Machines](https://ieeexplore.ieee.org/document/10330577)”, *IEEE Communications Surveys & Tutorials*, vol. 26, no. 1, pp. 258-301, Firstquarter 2024. (SCI, JCR Q1, IF: 34.4)
+30.	M. Lu, L. Bai, Z. Han, <ins>**Ziwei Huang**</ins>, S. Lu, and X. Cheng, “Digital twin enabled channel modeling for Beijing central business district (Invited Paper),” *ZTE Communications*, accepted, 2025.
 
 
 
