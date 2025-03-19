@@ -79,8 +79,12 @@
 # Academic Service
 
 ### Technical Program Committee Member
-+ IEEE Vehicular Technology Conference (VTC), Fall, 2022
++ IEEE Global Communications Conference (Globecom), 2025
++ IEEE Vehicular Technology Conference (VTC), Spring, 2025
++ IEEE/CIC International Conference on Communications in China (ICCC), 2025
 + International Conference on Cyber-enabled Distributed Computing and Knowledge Discovery (CyberC-2024), 2024
++ IEEE Vehicular Technology Conference (VTC), Fall, 2022
+
   
 ### Technical Reviewers
 + IEEE Journal on Selected Areas in Communications (JSAC)
