@@ -93,6 +93,7 @@
 + IEEE Journal on Selected Areas in Communications (JSAC)
 + IEEE Transactions on Wireless Communications (TWC)
 + IEEE Transactions on Intelligent Transportation Systems (TITS)
++ IEEE Transactions on Antennas and Propagation (TAP)
 + IEEE Transactions on Vehicular Technology (TVT)
 + IEEE Transactions on Network Science and Engineering (TNSE)
 + IEEE Internet of Things Journal (IOTJ)
