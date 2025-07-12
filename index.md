@@ -20,7 +20,7 @@
 
 
 ### Journal Papers
-1. <ins>**Ziwei Huang**</ins>, L. Bai, Z. Han, and X. Cheng, “[Scatterer recognition for multi-modal intelligent vehicular channel modeling via Synesthesia of Machines](https://ieeexplore.ieee.org/document/10949613),” *IEEE Wireless Communications Letters*, 2025. Doi: 10.1109/LWC.2025.3558059. (SCI，JCR Q1, IF: 5.5)
+1. <ins>**Ziwei Huang**</ins>, L. Bai, Z. Han, and X. Cheng, “[Scatterer recognition for multi-modal intelligent vehicular channel modeling via Synesthesia of Machines](https://ieeexplore.ieee.org/document/10949613),” *IEEE Wireless Communications Letters*, vol. 14, no. 7, pp. 1899-1903, Jul. 2025. (SCI，JCR Q1, IF: 5.5)
 2. <ins>**Ziwei Huang**</ins>, L. Bai, M. Sun, and X. Cheng, “[A LiDAR-aided channel model for vehicular intelligent sensing-communication integration](https://ieeexplore.ieee.org/document/10713502),” *IEEE Transactions on Intelligent Transportation Systems*, vol. 25, no. 12, pp. 20105-20119, Dec. 2024. (SCI，JCR Q1, IF: 8.4)
 3. <ins>**Ziwei Huang**</ins>, L. Bai, M. Sun, X. Cheng, P. E. Mogensen, and X. Cai, "[A mixed-bouncing based non-stationarity and consistency 6G V2V channel model with continuously arbitrary trajectory](https://ieeexplore.ieee.org/document/10181128),'' *IEEE Transactions on Wireless Communications*, vol. 23, no. 2, pp. 1634-1650, Feb. 2024. (SCI, JCR Q1, IF: 10.7)
 4. <ins>**Ziwei Huang**</ins>, L. Bai, M. Sun, and X. Cheng, "[A 3D non-stationarity and consistency model for cooperative multi-vehicle channels](https://ieeexplore.ieee.org/document/10106035),'' *IEEE Transactions on Vehicular Technology*, vol. 72, no. 9, pp. 11095-11110, Sept. 2023. (SCI, JCR Q1, IF: 7.1)
