@@ -64,10 +64,10 @@
 ### Conference Papers
 1. <ins>**Ziwei Huang**</ins>, L. Bai, L. Cui, and T. Feng, "[A space-time non-stationary and consistent model for 6G multi-UAV cooperative channels](https://ieeexplore.ieee.org/abstract/document/10233586),'' in *Proc. IEEE/CIC International Conference on Communications in China (ICCC)*, Dalian, China, Aug. 2023, pp. 1-6. (EI)
 2.	<ins>**Ziwei Huang**</ins> and X. Cheng, "[A 3D cluster-based channel model with time-space consistency (**Invited Paper**)](https://ieeexplore.ieee.org/document/9580400),'' in *Proc. IEEE/CIC International Conference on Communications in China (ICCC)*, Xiamen, China, Jul. 2021, pp. 1-6. (EI)
-3.	M. Sun, L. Bai, <ins>**Ziwei Huang**</ins>, X. Cheng, and J. Wu, "[UAV-to-ground path loss prediction based on synesthesia of machines](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13218/1321825/UAV-to-ground-path-loss-prediction-based-on-synesthesia-of/10.1117/12.3032673.short#_=_)," in *Proc. 1st Aerospace Frontiers Conference (AFC 2024)*, Xi'an, China, Apr. 2024. (EI, **Outstanding Paper Award**)
-4. M. Lu, L. Bai, <ins>**Ziwei Huang**</ins>, and X. Cheng, "[Propagation characterization of multi-frequency multi-scenario UAV communications](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13218/1321827/Propagation-characterization-of-multifrequency-multiscenario-UAV-communications/10.1117/12.3032676.short#_=_)," in *Proc. 1st Aerospace Frontiers Conference (AFC 2024)*, Xi'an, China, Apr. 2024. (EI)
-5. Z. Han, L. Bai, <ins>**Ziwei Huang**</ins>, and X. Cheng, "[Multi-UAV cooperative channel characterization of emergency communications](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13218/1321826/Multi-UAV-cooperative-channel-characterization-of-emergency-communications/10.1117/12.3032674.short#_=_)," in *Proc. 1st Aerospace Frontiers Conference (AFC 2024)*, Xi'an, China, Apr. 2024. (EI)
-6. L. Bai, M. Sun, <ins>**Ziwei Huang**</ins>, and X. Cheng, "[A new dataset for intelligent multi-modal sensing-communication integration in low-altitude scenarios (Invited Paper)](https://dl.acm.org/doi/10.1145/3674399.3674471)," in *Proc. ACM Turing Award Celebration Conference TURC 2024*, Changsha, China, 2024, pp. 216-217. (EI)
+3.	M. Sun, L. Bai, <ins>**Ziwei Huang**</ins>, X. Cheng, and J. Wu, "[UAV-to-ground path loss prediction based on synesthesia of machines](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13218/1321825/UAV-to-ground-path-loss-prediction-based-on-synesthesia-of/10.1117/12.3032673.short#_=_)," in *Proc. 1st Aerospace Frontiers Conference (AFC 2024)*, Xi'an, China, Aug. 2024. (EI, **Outstanding Paper Award**)
+4. M. Lu, L. Bai, <ins>**Ziwei Huang**</ins>, and X. Cheng, "[Propagation characterization of multi-frequency multi-scenario UAV communications](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13218/1321827/Propagation-characterization-of-multifrequency-multiscenario-UAV-communications/10.1117/12.3032676.short#_=_)," in *Proc. 1st Aerospace Frontiers Conference (AFC 2024)*, Xi'an, China, Aug. 2024. (EI)
+5. Z. Han, L. Bai, <ins>**Ziwei Huang**</ins>, and X. Cheng, "[Multi-UAV cooperative channel characterization of emergency communications](https://www.spiedigitallibrary.org/conference-proceedings-of-spie/13218/1321826/Multi-UAV-cooperative-channel-characterization-of-emergency-communications/10.1117/12.3032674.short#_=_)," in *Proc. 1st Aerospace Frontiers Conference (AFC 2024)*, Xi'an, China, Aug. 2024. (EI)
+6. L. Bai, M. Sun, <ins>**Ziwei Huang**</ins>, and X. Cheng, "[A new dataset for intelligent multi-modal sensing-communication integration in low-altitude scenarios (Invited Paper)](https://dl.acm.org/doi/10.1145/3674399.3674471)," in *Proc. ACM Turing Award Celebration Conference TURC 2024*, Changsha, China, Oct. 2024, pp. 216-217. (EI)
    
 ### Patents
 1.	程翔，<ins>**黄子蔚**</ins>，“空时一致性下的三重非平稳无线通信信道建模方法”，专利号ZL202210281015.4
@@ -120,7 +120,7 @@
 # Awards
 + ***Doctoral Dissertation Incentive Program by the China Institute of Communications (2024)***
 + ***Peking University Excellent Graduate (2024)***
-+ ***Aerospace Frontiers Conference Outstanding Paper Award (2023)***
++ ***Aerospace Frontiers Conference Outstanding Paper Award (2024)***
 + ***National Scholarship (2018 & 2023)***
 + ***IET Communications Best Paper Award: Premium Award (2022)***
 + ***Peking University Presidential Scholarship for Ph.D. candidates (2021 & 2022)***
