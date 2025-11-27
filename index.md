@@ -1,4 +1,4 @@
-**Ziwei Huang (Member, IEEE) received the Ph.D. degree in Information and Communication Engineering from Peking University, Beijing, China, in 2024. He is currently a Boya Postdoctoral Fellow at Peking University. His general research interests are in areas of wireless communications and artificial intelligence, subject on which he has published more than 40 journal and conference papers and 2 books. He was a recipient of the China National Postdoctoral Program for Innovative Talents. He was a co-recipient of the IET Communications Best Paper Award: Premium Award and was honored with the Doctoral Dissertation Incentive Program by the China Institute of Communications (CIC). He has also received the Silver Award at the National Invention Exhibition. He has served as the member of the Technical Program Committee and session chair for several international conferences. I am a group member of [Pervasive Connectivity and Networked Intelligence (PCNI)](http://pcni.pku.edu.cn/homepage.html). My Google Scholar link is [here](https://scholar.google.com/citations?user=UO10gm8AAAAJ&hl=zh-CN&oi=sra).**
+**Ziwei Huang (Member, IEEE) received the Ph.D. degree in Information and Communication Engineering from Peking University, Beijing, China, in 2024. He is currently a Boya Postdoctoral Fellow at Peking University. His general research interests are in areas of wireless communications and artificial intelligence, subject on which he has published more than 40 journal and conference papers and 2 books. He was a recipient of the China National Postdoctoral Program for Innovative Talents. He was a co-recipient of the IET Communications Best Paper Award: Premium Award and was honored with the Doctoral Dissertation Incentive Program by the China Institute of Communications (CIC). He has also received the Silver Award at the National Invention Exhibition. He has served as the member of the Technical Program Committee and session chair for several international conferences. I am an Associate Editor of IET Communications. I am a group member of [Pervasive Connectivity and Networked Intelligence (PCNI)](http://pcni.pku.edu.cn/homepage.html). My Google Scholar link is [here](https://scholar.google.com/citations?user=UO10gm8AAAAJ&hl=zh-CN&oi=sra).**
 
 
 # Research Interests
@@ -87,6 +87,9 @@
 + 2024年中国博士后科学基金第76批面上资助，**项目负责人**，8万元
 
 # Academic Service
+
+### Journal Editor
++ Associate Editor, IET Communications, 2025
 
 ### Technical Program Committee Member
 + IEEE Global Communications Conference (Globecom), 2025
