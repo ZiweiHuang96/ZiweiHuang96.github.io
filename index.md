@@ -91,6 +91,7 @@
 # Academic Service
 
 ### Journal Editor
++ Associate Editor, Journal on Advances in Signal Processing, 2026
 + Associate Editor, IET Communications, 2025
 
 ### Technical Program Committee Member
