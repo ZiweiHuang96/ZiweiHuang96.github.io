@@ -108,6 +108,7 @@
 + IEEE Transactions on Wireless Communications (TWC)
 + IEEE Transactions on Intelligent Transportation Systems (TITS)
 + IEEE Transactions on Communications (TCOM)
++ IEEE Transactions on Mobile Computing (TMC)
 + IEEE Transactions on Antennas and Propagation (TAP)
 + IEEE Transactions on Vehicular Technology (TVT)
 + IEEE Transactions on Network Science and Engineering (TNSE)
