@@ -8,7 +8,8 @@
 
 
 # Education
-+ **Boya Postdoctoral Fellow** (2024/07-), School of Electronics, Peking University, Beijing, China.
++ **Second-Term Boya Postdoctoral Fellow** (2026/07-), School of Electronics, Peking University, Beijing, China.
++ **First-Term Boya Postdoctoral Fellow** (2024/07-2026/06), School of Electronics, Peking University, Beijing, China.
 + **Doctor of Philosophy** (2019/09-2024/06), School of Electronics, Peking University, Beijing, China.
 + **Bachelor of Engineering** (2015/09-2019/06), Hongshen Honors School & School of Microelectronics and Communication Engineering (Ranked 1st/120), Chongqing University, Chongqing, China.
 
