@@ -1,4 +1,4 @@
-**Ziwei Huang (Member, IEEE) received the Ph.D. degree in Information and Communication Engineering from Peking University, Beijing, China, in 2024. He is currently a Boya Postdoctoral Fellow at Peking University. His general research interests are in areas of wireless communications and artificial intelligence, subject on which he has published more than 40 journal and conference papers and 2 books. He was a recipient of the China National Postdoctoral Program for Innovative Talents. He was a co-recipient of the IET Communications Best Paper Award: Premium Award and was honored with the Doctoral Dissertation Incentive Program by the China Institute of Communications (CIC). He has also received the Silver Award at the National Invention Exhibition. He has served as the member of the Technical Program Committee and session chair for several international conferences. He is an associate editor of Journal on Advances in Signal Processing and an associate editor of IET Communications. He is a group member of [Pervasive Connectivity and Networked Intelligence (PCNI)](http://pcni.pku.edu.cn/homepage.html). My Google Scholar link is [here](https://scholar.google.com/citations?user=UO10gm8AAAAJ&hl=zh-CN&oi=sra).**
+**Ziwei Huang received the Ph.D. degree in information and communication engineering from Peking University, Beijing, China, in 2024. He is currently a Boya Postdoctoral Fellow at Peking University. His research interests include wireless communications and artificial intelligence. He has published more than 40 journal and conference papers, as well as two books. Dr. Huang was selected for the China National Postdoctoral Program for Innovative Talents. He was a co-recipient of the IEEE Communications Society Best Survey Paper Award and the IET Communications Best Paper Award: Premium Award, and was also selected for the Doctoral Dissertation Incentive Program of the China Institute of Communications (CIC). His work was recognized as one of the Top Ten Scientific and Technological Advances in Information and Communications in 2025 and received the Silver Award at the National Invention Exhibition. He has served on the Technical Program Committees of several international conferences. He currently serves as an Associate Editor for the EURASIP Journal on Advances in Signal Processing and IET Communications. He is a group member of [Pervasive Connectivity and Networked Intelligence (PCNI)](http://pcni.pku.edu.cn/homepage.html). My Google Scholar link is [here](https://scholar.google.com/citations?user=UO10gm8AAAAJ&hl=zh-CN&oi=sra).**
 
 
 # Research Interests
@@ -93,7 +93,7 @@
 # Academic Service
 
 ### Journal Editor
-+ Associate Editor, Journal on Advances in Signal Processing, 2026
++ Associate Editor, EURASIP Journal on Advances in Signal Processing, 2026
 + Associate Editor, IET Communications, 2025
 
 ### Technical Program Committee Member
