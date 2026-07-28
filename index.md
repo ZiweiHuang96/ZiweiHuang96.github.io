@@ -63,7 +63,7 @@
 38. X. Cheng, B. Liu, X. Liu, E. Liu, and <ins>**Ziwei Huang**</ins>, “[Foundation model empowered Synesthesia of Machines (SoM): AI-native intelligent multi-modal sensing-communication integration](https://ieeexplore.ieee.org/document/11074348),” *IEEE Transactions on Network Science and Engineering*, vol. 13, pp. 762-782, Jan. 2026. (SCI, JCR Q1, IF: 7.3, **ESI Highly Cited Papers**)
 39.	X. Cheng, H. Zhang, J. Zhang, S. Gao, S. Li, <ins>**Ziwei Huang**</ins>, L. Bai, Z. Yang, X. Zheng, and L. Yang, “[Intelligent multi-modal sensing-communication integration: Synesthesia of Machines](https://ieeexplore.ieee.org/document/10330577)”, *IEEE Communications Surveys & Tutorials*, vol. 26, no. 1, pp. 258-301, Firstquarter 2024. (SCI, JCR Q1, IF: 50.6, **IEEE Communications Society Best Survey Paper Award, ESI Highly Cited Papers**)
 40.	M. Lu, L. Bai, Z. Han, <ins>**Ziwei Huang**</ins>, S. Lu, and X. Cheng, “[6G Digital twin enabled channel modeling for Beijing central business district (Invited Paper)](https://d.wanfangdata.com.cn/periodical/zxtxjs-e202502005),” *ZTE Communications*, vol 23, no. 2, pp. 31-45, Jun. 2025.
-
+28.	程翔，李思江，刘伯珣，刘恩嵩，<ins>**黄子蔚<ins>**，文韦博，刘轩宇，机器联觉赋能网联具身智能[J]，科学通报，已接收，2026.（中科院1区）
 
 
 
