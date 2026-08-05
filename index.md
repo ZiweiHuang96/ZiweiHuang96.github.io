@@ -22,7 +22,7 @@
 
 ### Journal Papers
 1. <ins>**Ziwei Huang#**</ins>, S. Lu#, L. Bai, X. Cai, and X. Cheng, “LLM4MG: Adapting large language model for multipath generation via Synesthesia of Machines”, *npj Wireless Technology*, accepted, 2026. (**Nature Research Journal**)
-2. <ins>**黄子蔚**</ins>，韩增瑞，白露，程翔，XXX，XXX[J]，1（4），2025。（科技领域具有国际一流水平的重大原创性学术成果）
+2. <ins>**黄子蔚**</ins>，韩增瑞，白露，程翔，XXX，XXX[J]，1（4），2025.（科技领域具有国际一流水平的重大原创性学术成果）
 3. <ins>**Ziwei Huang**</ins>, L. Bai, Z. Han, and X. Cheng, “[Scatterer recognition for multi-modal intelligent vehicular channel modeling via Synesthesia of Machines](https://ieeexplore.ieee.org/document/10949613),” *IEEE Wireless Communications Letters*, vol. 14, no. 7, pp. 1899-1903, Jul. 2025. (SCI，JCR Q1, IF: 5.1)
 4. <ins>**Ziwei Huang**</ins>, L. Bai, M. Sun, and X. Cheng, “[A LiDAR-aided channel model for vehicular intelligent sensing-communication integration](https://ieeexplore.ieee.org/document/10713502),” *IEEE Transactions on Intelligent Transportation Systems*, vol. 25, no. 12, pp. 20105-20119, Dec. 2024. (SCI，JCR Q1, IF: 9.1)
 5. <ins>**Ziwei Huang**</ins>, L. Bai, M. Sun, X. Cheng, P. E. Mogensen, and X. Cai, "[A mixed-bouncing based non-stationarity and consistency 6G V2V channel model with continuously arbitrary trajectory](https://ieeexplore.ieee.org/document/10181128),'' *IEEE Transactions on Wireless Communications*, vol. 23, no. 2, pp. 1634-1650, Feb. 2024. (SCI, JCR Q1, IF: 10.3)
