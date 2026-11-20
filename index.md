@@ -117,6 +117,7 @@
 + IEEE Transactions on Antennas and Propagation (TAP)
 + IEEE Transactions on Vehicular Technology (TVT)
 + IEEE Transactions on Network Science and Engineering (TNSE)
++ IEEE Transactions on Cognitive Communications and Networking (TCCN)
 + Engineering Applications of Artificial Intelligence (EAAI)
 + IEEE Internet of Things Journal (IOTJ)
 + IEEE Open Journal of the Communications Society (OJ-COMS)
