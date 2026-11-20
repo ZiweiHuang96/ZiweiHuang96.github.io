@@ -109,18 +109,19 @@
 
   
 ### Technical Reviewers
-+ IEEE Journal on Selected Areas in Communications (JSAC)
-+ IEEE Transactions on Wireless Communications (TWC)
-+ IEEE Transactions on Intelligent Transportation Systems (TITS)
-+ IEEE Transactions on Communications (TCOM)
-+ IEEE Transactions on Mobile Computing (TMC)
-+ IEEE Transactions on Antennas and Propagation (TAP)
-+ IEEE Transactions on Vehicular Technology (TVT)
-+ IEEE Transactions on Network Science and Engineering (TNSE)
++ IEEE Journal on Selected Areas in Communications (IEEE JSAC)
++ IEEE Transactions on Wireless Communications (IEEE TWC)
++ IEEE Transactions on Intelligent Transportation Systems (IEEE TITS)
++ IEEE Transactions on Communications (IEEE TCOM)
++ IEEE Transactions on Mobile Computing (IEEE TMC)
++ IEEE Transactions on Antennas and Propagation (IEEE TAP)
++ IEEE Transactions on Vehicular Technology (IEEE TVT)
++ IEEE Transactions on Network Science and Engineering (IEEE TNSE)
 + IEEE Transactions on Cognitive Communications and Networking (TCCN)
++ IEEE Internet of Things Journal (IEEE IOTJ)
 + Engineering Applications of Artificial Intelligence (EAAI)
-+ IEEE Internet of Things Journal (IOTJ)
 + IEEE Open Journal of the Communications Society (OJ-COMS)
++ IEEE Wireless Communications Letters (IEEE WCL)
 + IEEE Wireless Communications
 + IEEE Communications Magazine
 + IEEE Communications Letters
